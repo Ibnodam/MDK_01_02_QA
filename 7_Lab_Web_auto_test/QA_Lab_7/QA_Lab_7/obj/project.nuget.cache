@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "kVsUfvpeBjw=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\valij\\source\\repos\\QA_Lab_7\\QA_Lab_7\\QA_Lab_7.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\valij\\.nuget\\packages\\nunit\\4.2.2\\nunit.4.2.2.nupkg.sha512",
+    "C:\\Users\\valij\\.nuget\\packages\\selenium.support\\4.26.1\\selenium.support.4.26.1.nupkg.sha512",
+    "C:\\Users\\valij\\.nuget\\packages\\selenium.webdriver\\4.26.1\\selenium.webdriver.4.26.1.nupkg.sha512"
+  ],
+  "logs": []
+}
